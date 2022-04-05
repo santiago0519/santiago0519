@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santiago0519
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular, React, Ionic, .NET, JS, Python 
+- 🌱 I’m currently learning Angular, HTML , JQuery, JS, Python, CSS, PHP 
 
 <!---
 santiago0519/santiago0519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
